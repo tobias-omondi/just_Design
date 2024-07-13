@@ -49,3 +49,7 @@ nav ul li a {
     border-radius: 30px;
     border-top-right-radius: 0;
 }
+.content{
+    margin-top: 10%;
+    max-width: 600px;
+}
